@@ -9,7 +9,7 @@
 
 ## Responsive in Mobile 
 
-![Screen](out/responsive.png)
+<img src='out/responsive.png' />
 
 ## Global Chart
 ![Global Chart](out/global_chart.png)
