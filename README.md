@@ -8,11 +8,10 @@
 # ScreenShots 
 
 ## Responsive in Mobile 
-
-<img src='out/responsive.png' />
+<img src='out/responsive.PNG' alt = 'responsive' />
 
 ## Global Chart
-![Global Chart](out/global_chart.png)
+<img src='out/global_chart.PNG' />
 
 ## Country bar graph
-![Country Bar graph](out/country_bar.png)
+<img src = 'out/country_bar.PNG' />
